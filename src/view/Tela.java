@@ -45,6 +45,7 @@ public class Tela extends JFrame {
 		final JProgressBar progressBar = new JProgressBar();
 		progressBar.setBounds(10, 35, 188, 42);
 		contentPane.add(progressBar);
+		
 		JButton btnIniciar = new JButton("In\u00EDcio");
 		btnIniciar.setBounds(10, 228, 89, 23);
 		contentPane.add(btnIniciar);
